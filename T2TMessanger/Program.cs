@@ -8,8 +8,8 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 
 builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
-Console.WriteLine("SS - 11");
-Console.WriteLine("SS - 12");
+Console.WriteLine("SS - 31");
+Console.WriteLine("SS - 31");
 
 Console.WriteLine("AZ - 31");
 Console.WriteLine("AZ - 32");
