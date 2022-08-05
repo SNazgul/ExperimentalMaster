@@ -12,5 +12,6 @@ Console.WriteLine("SS");
 Console.WriteLine("SS - 1");
 
 Console.WriteLine("AZ - 1");
+Console.WriteLine("AZ - 2");
 
 await builder.Build().RunAsync();
