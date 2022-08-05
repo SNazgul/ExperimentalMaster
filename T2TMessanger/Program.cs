@@ -11,7 +11,7 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 Console.WriteLine("SS - 11");
 Console.WriteLine("SS - 12");
 
-Console.WriteLine("AZ - 1");
-Console.WriteLine("AZ - 2");
+Console.WriteLine("AZ - 21");
+Console.WriteLine("AZ - 22");
 
 await builder.Build().RunAsync();
