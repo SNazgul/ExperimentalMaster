@@ -11,7 +11,7 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 Console.WriteLine("SS - 41");
 Console.WriteLine("SS - 41");
 
-Console.WriteLine("AZ - 41");
+Console.WriteLine("AZ - 51");
 Console.WriteLine("AZ - 42");
 
 Console.WriteLine("MAIN - 53");
