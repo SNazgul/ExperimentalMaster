@@ -12,7 +12,7 @@ Console.WriteLine("SS - 41");
 Console.WriteLine("SS - 41");
 
 Console.WriteLine("AZ - 51");
-Console.WriteLine("AZ - 42");
+Console.WriteLine("AZ - 52");
 
 Console.WriteLine("MAIN - 53");
 await builder.Build().RunAsync();
