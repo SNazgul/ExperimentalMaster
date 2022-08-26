@@ -14,5 +14,5 @@ Console.WriteLine("SS - 41");
 Console.WriteLine("AZ - 61");
 Console.WriteLine("AZ - 62");
 
-Console.WriteLine("MAIN - 61");
+Console.WriteLine("MAIN - 62");
 await builder.Build().RunAsync();
